@@ -1,5 +1,5 @@
 # MillionaireApp
-MillionaireApp models a Q&A contest in a Console UI, the aim is to implement a solution designed to allow having a question bank with different options and unique right answer. Each question has a category in which the difficulty level is the same for all questions. The game is played in five rounds, so a reward is won in each of them. Round's level increases the difficulty of the game and therefore the amount of the reward.
+MillionaireApp models a Q&A contest in a Console UI, the aim is to implement a solution designed to allow having a question bank with different options and unique right answers. Each question has a category in which the difficulty level is the same for all questions. The game is played in five rounds, so a reward is won in each of them. Round's level increases the difficulty of the game and therefore the amount of the reward.
 
 The logic of development is performed in based at the followig ER diagram:
 
